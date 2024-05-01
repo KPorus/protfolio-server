@@ -18,10 +18,6 @@ const projectSchema: Schema = new Schema({
     type: [String],
     required: true
   },
-  skills: {
-    type: [String],
-    required: true
-  },
   TECHNOLOGY: {
     type: [String],
     required: true

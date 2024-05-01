@@ -5,7 +5,7 @@ export interface IProject extends Document {
     details: string;
     img?: string;
     feature: string[];
-    skills: string[];
+    // skills: string[];
     TECHNOLOGY: string[];
     client?: string;
     live?: string;
